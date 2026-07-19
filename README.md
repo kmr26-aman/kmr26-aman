@@ -1,27 +1,312 @@
-# 💫 About Me:
-Hi, I’m Aman Kumar.<br><br>I’m a B.Tech student in Electronics and Communication Engineering, currently lives in Pune, India. I’m passionate about becoming a Full-Stack Web Developer with a strong focus on Java development and AI/ML integration.<br><br>I’m currently working on improving my full-stack web development skills through hands-on projects. I’m actively learning modern web technologies, Java, and the fundamentals of artificial intelligence and machine learning.<br><br>I’m open to collaborating on web development, Java-based applications, and AI/ML-related projects. You can ask me about web development basics, Java programming, and electronics concepts.<br><br>Fun fact: I enjoy turning ideas into practical and web-dev is not only my passion but also a hobby..
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aman%20Kumar&fontSize=42&fontColor=C9B6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ak._.ydv_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar-5a5763292) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ydv_X_ak) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Learn_Lite) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aman123333kumar@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+%7C+MERN+%2F+Next.js+%2F+FastAPI;AI%2FML+Engineer+%7C+PyTorch+%2B+LangChain;Embedded+Systems+%7C+STM32+%2F+ARM;SIH+2025+Finalist" alt="Typing SVG" />
 
- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kmr26-aman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kmr26-aman&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kmr26-aman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![CGPA](https://img.shields.io/badge/CGPA-9.6%2F10-6D28D9?style=for-the-badge&labelColor=1a1a2e)
+![Degree](https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication-4C1D95?style=for-the-badge&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/Pune%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kmr26-aman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kmr26-aman&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=8B5CF6&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/your-username?color=A78BFA&style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/your-username?color=C4B5FD&style=flat-square&label=Stars)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kmr26-aman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<! THANK YOU ...>
+### 🧠 About Me
+
+```yaml
+role: "Final-Year B.Tech ECE Student → Software Engineer"
+focus: ["Full-Stack Development", "AI/ML Systems", "Product Engineering"]
+philosophy: "Engineering software that is scalable, secure, and shipped — not just prototyped."
+```
+
+I'm a final-year **Electronics & Communication Engineering** student with a product-engineering mindset and a full-stack execution track record. I build systems end-to-end — from resilient backend architecture and vector-search-driven AI pipelines to polished, animation-rich frontend experiences. My work spans **MERN/Next.js applications**, **FastAPI + PyTorch AI services**, and **embedded systems** (STM32, ARM Cortex), giving me a rare vertical slice of software engineering — from silicon to UI.
+
+I care about clean architecture, ATS-proof documentation of my own work, and shipping products that solve real logistical and safety problems — as reflected in my **Smart India Hackathon 2025** finalist project.
+
+<div align="center">
+
+```text
+Open To:  Software Development Engineer • Full-Stack Engineer • AI/ML Engineer Roles
+```
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+![](https://skillicons.dev/icons?i=js,ts,python,cpp,c,java)
+
+**Frontend**
+![](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css)
+
+**Backend & Databases**
+![](https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis)
+
+**Cloud, DevOps & Tooling**
+![](https://skillicons.dev/icons?i=docker,git,github,vercel,railway,aws,linux,vscode)
+
+**Embedded & Hardware**
+![](https://skillicons.dev/icons?i=arduino)
+`STM32` · `ARM Cortex-M4` · `VHDL` · `Embedded C`
+
+---
+
+### 🤖 AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **LLM Orchestration** | ⭐⭐⭐⭐☆ | LangChain, LlamaIndex, RAG pipelines |
+| **Vector Search** | ⭐⭐⭐⭐☆ | PostgreSQL + pgvector, embeddings |
+| **Deep Learning** | ⭐⭐⭐⭐☆ | PyTorch, model fine-tuning |
+| **AI Product Integration** | ⭐⭐⭐⭐⭐ | End-to-end SaaS + AI feature shipping |
+| **Applied NLP** | ⭐⭐⭐☆☆ | Document intelligence, classification |
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<details>
+<summary><b>🚆 Railway Track Fitting Management System — SIH 2025</b></summary>
+<br/>
+
+A full-stack system built for **Smart India Hackathon 2025**, designed to digitize and track railway fitting inventory, inspections, and maintenance lifecycles at scale.
+
+| Category | Details |
+|---|---|
+| **Stack** | MERN, Next.js, PostgreSQL |
+| **Scale** | Multi-depot inventory tracking |
+| **Performance** | Optimized query layer for large asset datasets |
+| **Security** | Role-based access control |
+| **Impact** | Reduces manual fitting-inspection overhead |
+| **Repository** | [View Repo](https://github.com/your-username/railway-track-fitting) |
+
+Built to address real infrastructure inefficiencies, this project reflects deep collaboration on data modeling, real-time status tracking, and dashboard UX for non-technical field staff.
+
+</details>
+
+<details>
+<summary><b>🍽️ EatUpp</b></summary>
+<br/>
+
+A full-stack food-ordering / discovery platform focused on smooth UX and reliable order-management flows.
+
+| Category | Details |
+|---|---|
+| **Stack** | MERN |
+| **Scale** | Multi-restaurant, multi-user |
+| **Performance** | Optimized cart & checkout state management |
+| **Security** | JWT-based auth |
+| **Impact** | Streamlined ordering experience |
+| **Repository** | [View Repo](https://github.com/your-username/eatupp) |
+
+</details>
+
+<details>
+<summary><b>🌐 Socialiser</b></summary>
+<br/>
+
+A social networking platform built to explore real-time interactions, feeds, and scalable data modeling for user-generated content.
+
+| Category | Details |
+|---|---|
+| **Stack** | MERN |
+| **Scale** | Real-time feed & interactions |
+| **Performance** | Indexed queries for feed generation |
+| **Security** | Auth + session management |
+| **Impact** | Hands-on mastery of social-graph data design |
+| **Repository** | [View Repo](https://github.com/your-username/socialiser) |
+
+</details>
+
+<details>
+<summary><b>🚨 Road SOS</b></summary>
+<br/>
+
+An emergency roadside-assistance application connecting stranded users with nearby help in real time.
+
+| Category | Details |
+|---|---|
+| **Stack** | MERN, Geolocation APIs |
+| **Scale** | Real-time location matching |
+| **Performance** | Low-latency location updates |
+| **Security** | Verified request handling |
+| **Impact** | Faster emergency response coordination |
+| **Repository** | [View Repo](https://github.com/your-username/road-sos) |
+
+</details>
+
+---
+
+### 💼 Experience
+
+**Retail Marketing Intern**
+*Company Name Here*
+`Start Date` – `End Date`
+
+Contributed to retail marketing operations, gaining cross-functional exposure to business strategy alongside technical project work.
+
+- Supported marketing strategy execution and data-driven reporting
+- Collaborated cross-functionally with business and operations teams
+- Applied analytical thinking to consumer-facing initiatives
+
+`Marketing` `Data Analysis` `Business Strategy`
+
+<br/>
+
+**Web Development Intern — Task 01**
+*SkillCraft Technology*
+`Internship Duration`
+
+Delivered a fully responsive landing page as part of a structured internship task, implementing both a vanilla HTML/CSS/JS version and a React component version.
+
+- Built responsive landing page with scroll-based animations
+- Implemented frosted-glass navbar using IntersectionObserver
+- Designed a centralized theme token system for consistent styling
+
+`React` `JavaScript` `CSS` `IntersectionObserver`
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🥇 SIH 2025 Finalist | Railway Track Fitting Management System |
+| 🎓 9.6 CGPA | B.Tech Electronics & Communication Engineering |
+| 📜 Multi-Domain Certification | AI/ML, DSA, Full-Stack Development |
+
+</div>
+
+---
+
+### 📜 Certifications
+
+**NPTEL**
+![](https://img.shields.io/badge/Database%20Management%20Systems-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
+
+**GeeksforGeeks**
+![](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4C1D95?style=flat-square&logo=geeksforgeeks&logoColor=white)
+
+**Udemy**
+![](https://img.shields.io/badge/Full%20Stack%20Web%20Development%20(Angela%20Yu)-5B21B6?style=flat-square&logo=udemy&logoColor=white)
+
+---
+
+### 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-262626?style=for-the-badge&logo=leetcode&logoColor=A78BFA)](https://leetcode.com/your-username)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-262626?style=for-the-badge&logo=geeksforgeeks&logoColor=8B5CF6)](https://geeksforgeeks.org/user/your-username)
+[![HackerRank](https://img.shields.io/badge/HackerRank-262626?style=for-the-badge&logo=hackerrank&logoColor=C4B5FD)](https://hackerrank.com/your-username)
+[![CodeChef](https://img.shields.io/badge/CodeChef-262626?style=for-the-badge&logo=codechef&logoColor=A78BFA)](https://codechef.com/users/your-username)
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="60%"/>
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+### 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced system design & distributed architectures
+  - LLM agent orchestration frameworks
+Building:
+  - AI-powered full-stack SaaS applications
+  - Portfolio-grade production systems
+Exploring:
+  - Vector databases & retrieval-augmented generation
+  - Embedded-to-cloud IoT pipelines
+Open To:
+  - SDE / Full-Stack Engineer roles
+  - AI/ML Engineering opportunities
+```
+
+---
+
+### 🤝 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+
+</div>
+
+---
+<div align="center">
+
+*"Code is the bridge between an idea and its impact."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
