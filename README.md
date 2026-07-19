@@ -1,21 +1,27 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:1a1a1a&height=220&section=header&text=Aman%20Kumar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=Full-Stack+%7C+MERN+%2F+Next.js+%2F+FastAPI;AI%2FML+Engineer+%7C+PyTorch+%2B+LangChain;Embedded+Systems+%7C+STM32+%2F+ARM;SIH+2025+Finalist" alt="Typing SVG" />
+
 <br/>
+
 ![CGPA](https://img.shields.io/badge/CGPA-9.6%2F10-6D28D9?style=for-the-badge&labelColor=1a1a2e)
 ![Degree](https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication-4C1D95?style=for-the-badge&labelColor=1a1a2e)
 ![Location](https://img.shields.io/badge/Pune%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e)
+
 <br/>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amankumar-dev26)
 [![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman123333kumar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kmr26-aman)
+
 <br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=kmr26-aman&color=8B5CF6&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/kmr26-aman?color=A78BFA&style=flat-square&label=Followers)
 ![Stars](https://img.shields.io/github/stars/kmr26-aman?color=C4B5FD&style=flat-square&label=Stars)
-</div>
 
+</div>
 ### 🧠 About Me
 
 ```yaml
