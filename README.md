@@ -229,6 +229,15 @@ Delivered a fully responsive landing page as part of a structured internship tas
 </div>
 
 ---
+### 💻 LeetCode Progress
+
+<div align="center">
+  <a href="https://leetcode.comkmr_aman26/">
+    <img src="https://leetcard.jacoblin.cool/kmr_aman26?theme=dark&font=Baloo%20Bhaina%202&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</div>
+
+---
 
 ### 📊 GitHub Analytics
 
@@ -307,7 +316,8 @@ Open To:
 <div align="center">
 
 *"Code is the bridge between an idea and its impact."*
-
+ ### ⭐ Thank You! ⭐
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
