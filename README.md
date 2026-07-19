@@ -48,6 +48,8 @@ Open To:  Software Development Engineer • Full-Stack Engineer • AI/ML Engine
 </div>
 
 ---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🛠️ Tech Stack
 
@@ -64,8 +66,7 @@ Open To:  Software Development Engineer • Full-Stack Engineer • AI/ML Engine
 ![](https://skillicons.dev/icons?i=docker,git,github,vercel,railway,aws,linux,vscode)
 
 **Embedded & Hardware**
-![](https://skillicons.dev/icons?i=arduino)
-`STM32` · `ARM Cortex-M4` · `VHDL` · `Embedded C`
+![](https://skillicons.dev/icons?i=arduino,STM32,ARM Cortex-M4 , VHDL , ESP32)
 
 ---
 
@@ -266,7 +267,7 @@ Delivered a fully responsive landing page as part of a structured internship tas
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.comkmr26-aman/kmr26-aman/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
