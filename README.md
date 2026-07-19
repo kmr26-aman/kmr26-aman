@@ -48,8 +48,10 @@ Open To:  Software Development Engineer • Full-Stack Engineer • AI/ML Engine
 </div>
 
 ---
-### ✍️ Random Dev Quote
+### ✍️ Motivational Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🌐 Socials:
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ak._.ydv_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar-5a5763292) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ydv_X_ak) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Learn_Lite) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aman123333kumar@gmail.com) 
 
 ### 🛠️ Tech Stack
 
@@ -163,8 +165,8 @@ An emergency roadside-assistance application connecting stranded users with near
 ### 💼 Experience
 
 **Retail Marketing Intern**
-*Company Name Here*
-`Start Date` – `End Date`
+*Neha Sharma Fit Life (NSFL)*
+`May 2026` – `Nov 2026`
 
 Contributed to retail marketing operations, gaining cross-functional exposure to business strategy alongside technical project work.
 
@@ -176,18 +178,6 @@ Contributed to retail marketing operations, gaining cross-functional exposure to
 
 <br/>
 
-**Web Development Intern — Task 01**
-*SkillCraft Technology*
-`Internship Duration`
-
-Delivered a fully responsive landing page as part of a structured internship task, implementing both a vanilla HTML/CSS/JS version and a React component version.
-
-- Built responsive landing page with scroll-based animations
-- Implemented frosted-glass navbar using IntersectionObserver
-- Designed a centralized theme token system for consistent styling
-
-`React` `JavaScript` `CSS` `IntersectionObserver`
-
 ---
 
 ### 🏆 Achievements
@@ -196,9 +186,9 @@ Delivered a fully responsive landing page as part of a structured internship tas
 
 | Recognition | Details |
 |---|---|
-| 🥇 SIH 2025 Participant | Railway Track Fitting Management System |
 | 🎓 9.6 CGPA | B.Tech Electronics & Communication Engineering |
 | 📜 Multi-Domain Certification | AI/ML, DSA, Full-Stack Development |
+| 🥇 SIH 2025 Participant | Railway Track Fitting Management System |
 
 </div>
 
