@@ -2,6 +2,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:1a1a1a&height=220&section=header&text=Aman%20Kumar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=Full-Stack+%7C+MERN+%2F+Next.js+%2F+FastAPI;AI%2FML+Engineer+%7C+PyTorch+%2B+LangChain;Embedded+Systems+%7C+STM32+%2F+ARM;SIH+2025+Finalist" alt="Typing SVG" />
 
+<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
+     wordmark (wipes in left-to-right, then rocks on its vertical axis).
+     widths are picked so both panels land at the same height.
+     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
+     wordmark: python scripts/make_wordmark_svg.py --mode rock
+     how the wordmark is built: docs/3d-ascii-wordmark.md -->
+
+<h3><code>Aman@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Aman Kumar — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="Aman — 3D ASCII wordmark" /></td>
+</tr>
+</table>
+
 <br/>
 
 ![CGPA](https://img.shields.io/badge/CGPA-9.6%2F10-6D28D9?style=for-the-badge&labelColor=1a1a2e)
