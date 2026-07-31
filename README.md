@@ -19,14 +19,14 @@
 
 <!-- Stats + Top Languages -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-VERCEL-URL.vercel.app/api?username=kmr26-aman&show_icons=true&hide_rank=true&count_private=true&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&icon_color=10B981&border_color=1C2740" />
-  <source media="(prefers-color-scheme: light)" srcset="https://YOUR-VERCEL-URL.vercel.app/api?username=kmr26-aman&show_icons=true&hide_rank=true&count_private=true&bg_color=F7F8FC&title_color=7C3AED&text_color=1E293B&icon_color=059669&border_color=D8DEEA" />
-  <img width="49%" src="https://YOUR-VERCEL-URL.vercel.app/api?username=kmr26-aman&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&icon_color=10B981&border_color=1C2740" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kmr26-aman&show_icons=true&hide_rank=true&count_private=true&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&icon_color=10B981&border_color=1C2740" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kmr26-aman&show_icons=true&hide_rank=true&count_private=true&bg_color=F7F8FC&title_color=7C3AED&text_color=1E293B&icon_color=059669&border_color=D8DEEA" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kmr26-aman&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&icon_color=10B981&border_color=1C2740" alt="GitHub Stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=kmr26-aman&layout=compact&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&border_color=1C2740" />
-  <source media="(prefers-color-scheme: light)" srcset="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=kmr26-aman&layout=compact&bg_color=F7F8FC&title_color=7C3AED&text_color=1E293B&border_color=D8DEEA" />
-  <img width="49%" src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=kmr26-aman&layout=compact&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&border_color=1C2740" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kmr26-aman&layout=compact&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&border_color=1C2740" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kmr26-aman&layout=compact&bg_color=F7F8FC&title_color=7C3AED&text_color=1E293B&border_color=D8DEEA" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmr26-aman&layout=compact&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&border_color=1C2740" alt="Top Languages" />
 </picture>
 
 <br/>
