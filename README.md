@@ -1,52 +1,4 @@
-<!-- ===================== BANNER ===================== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/main/assets/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/main/assets/light.svg" />
-  <img src="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/main/assets/dark.svg" alt="Aman Kumar" width="100%" />
-</picture>
 
-<br/><br/>
-
-<!-- ===================== STATS ===================== -->
-<!-- Streak card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kmr26-aman&theme=default&background=0A101F&stroke=1C2740&ring=A78BFA&fire=10B981&currStreakLabel=A78BFA&sideLabels=C7D2E0&currStreakNum=C7D2E0&sideNums=C7D2E0&dates=5B6B85" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=kmr26-aman&theme=default&background=F7F8FC&stroke=D8DEEA&ring=7C3AED&fire=059669&currStreakLabel=7C3AED&sideLabels=1E293B&currStreakNum=1E293B&sideNums=1E293B&dates=8B97AC" />
-  <img width="100%" src="https://streak-stats.demolab.com?user=kmr26-aman&theme=default&background=0A101F&stroke=1C2740&ring=A78BFA&fire=10B981" alt="GitHub Streak" />
-</picture>
-
-<br/>
-
-<!-- Stats + Top Languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kmr26-aman&show_icons=true&hide_rank=true&count_private=true&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&icon_color=10B981&border_color=1C2740" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kmr26-aman&show_icons=true&hide_rank=true&count_private=true&bg_color=F7F8FC&title_color=7C3AED&text_color=1E293B&icon_color=059669&border_color=D8DEEA" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kmr26-aman&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&icon_color=10B981&border_color=1C2740" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kmr26-aman&layout=compact&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&border_color=1C2740" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kmr26-aman&layout=compact&bg_color=F7F8FC&title_color=7C3AED&text_color=1E293B&border_color=D8DEEA" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmr26-aman&layout=compact&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&border_color=1C2740" alt="Top Languages" />
-</picture>
-
-<br/>
-
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/output/snake-light.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/output/snake-dark.svg" />
-</picture>
-
-<br/>
-
-<!-- ===================== SOCIAL BADGES ===================== -->
-<p align="left">
-<a href="https://linkedin.com/in/amankumar-dev26" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="https://instagram.com/_ak._.ydv_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>&nbsp;&nbsp;
-<a href="https://fb.com/amankumar" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>&nbsp;&nbsp;
-<a href="mailto:aman123333kumar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-</p>
 
 
 
@@ -103,22 +55,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:1a1a1a&height=220&section=header&text=Aman%20Kumar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=Full-Stack+%7C+MERN+%2F+Next.js+%2F+FastAPI;AI%2FML+Engineer+%7C+PyTorch+%2B+LangChain;Embedded+Systems+%7C+STM32+%2F+ARM;SIH+2025+Finalist" alt="Typing SVG" />
 
-<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
-     wordmark (wipes in left-to-right, then rocks on its vertical axis).
-     widths are picked so both panels land at the same height.
-     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
-     wordmark: python scripts/make_wordmark_svg.py --mode rock
-     how the wordmark is built: docs/3d-ascii-wordmark.md -->
-
-<h3><code>Aman@github ~ $ Ak</code></h3>
-
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Aman Kumar — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark.svg" width="490" alt="Aman — 3D ASCII wordmark" /></td>
-</tr>
-</table>
-
 <br/>
 
 ![CGPA](https://img.shields.io/badge/CGPA-9.6%2F10-6D28D9?style=for-the-badge&labelColor=1a1a2e)
@@ -139,6 +75,55 @@
 ![Stars](https://img.shields.io/github/stars/kmr26-aman?color=C4B5FD&style=flat-square&label=Stars)
 
 </div>
+<!-- ===================== BANNER ===================== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/main/assets/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/main/assets/light.svg" />
+  <img src="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/main/assets/dark.svg" alt="Aman Kumar" width="100%" />
+</picture>
+
+<br/><br/>
+
+<!-- ===================== STATS ===================== -->
+<!-- Streak card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kmr26-aman&theme=default&background=0A101F&stroke=1C2740&ring=A78BFA&fire=10B981&currStreakLabel=A78BFA&sideLabels=C7D2E0&currStreakNum=C7D2E0&sideNums=C7D2E0&dates=5B6B85" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=kmr26-aman&theme=default&background=F7F8FC&stroke=D8DEEA&ring=7C3AED&fire=059669&currStreakLabel=7C3AED&sideLabels=1E293B&currStreakNum=1E293B&sideNums=1E293B&dates=8B97AC" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=kmr26-aman&theme=default&background=0A101F&stroke=1C2740&ring=A78BFA&fire=10B981" alt="GitHub Streak" />
+</picture>
+
+<br/>
+
+<!-- Stats + Top Languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kmr26-aman&show_icons=true&hide_rank=true&count_private=true&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&icon_color=10B981&border_color=1C2740" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kmr26-aman&show_icons=true&hide_rank=true&count_private=true&bg_color=F7F8FC&title_color=7C3AED&text_color=1E293B&icon_color=059669&border_color=D8DEEA" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kmr26-aman&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&icon_color=10B981&border_color=1C2740" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kmr26-aman&layout=compact&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&border_color=1C2740" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kmr26-aman&layout=compact&bg_color=F7F8FC&title_color=7C3AED&text_color=1E293B&border_color=D8DEEA" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmr26-aman&layout=compact&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&border_color=1C2740" alt="Top Languages" />
+</picture>
+
+<br/>
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/output/snake-light.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/output/snake-dark.svg" />
+</picture>
+
+<br/>
+
+<!-- ===================== SOCIAL BADGES ===================== -->
+<p align="left">
+<a href="https://linkedin.com/in/amankumar-dev26" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://instagram.com/_ak._.ydv_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="https://fb.com/amankumar" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>&nbsp;&nbsp;
+<a href="mailto:aman123333kumar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+</p>
 ### 🧠 About Me
 
 ```yaml
