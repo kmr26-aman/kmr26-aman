@@ -31,7 +31,22 @@
 
 <br/><br/>
 
+
 ---
+
+### 🧠 About Me
+
+I'm a final-year **Electronics and Communication Engineering** student at Bharati Vidyapeeth (DU) College of Engineering, Pune, graduating in 2027 with a **9.6 CGPA**. I build full-stack applications end-to-end — from real-time features and payment integration to cloud deployment — and I'm actively looking for **SDE / Full-Stack Engineer** roles.
+
+- 💻 Comfortable across the stack with **ReactJS, NodeJS, ExpressJS, FastAPI**, and databases like **MongoDB, MySQL, PostgreSQL, Redis**
+- 🛠️ Recent projects include a food delivery app with live tracking and payments, a full-stack social platform with real-time messaging, and an emergency response network with multilingual support
+- 📈 Hands-on with **Power BI, Tableau**, and data analytics alongside development
+- 🔌 Core coursework and skills also extend into embedded systems — **ESP32, Arduino, STM32**
+- 🌱 Currently strengthening **Data Structures & Algorithms** and exploring cloud deployment platforms
+- 📫 Reach me at **aman123333kumar@gmail.com**
+  
+---
+
 ### 🏆 Achievements
 
 <div align="center">
@@ -46,7 +61,19 @@
 
 ---
 
+<!-- ===================== SOCIAL BADGES ===================== -->
+## 🌐 Socials:
+<p align="left">
+<a href="https://linkedin.com/in/amankumar-dev26" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://instagram.com/_ak._.ydv_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="https://fb.com/amankumar" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>&nbsp;&nbsp;
+<a href="mailto:aman123333kumar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+</p>
+
+---
+
 <!-- ===================== STATS ===================== -->
+### 📊 GitHub Analytics
 <!-- Streak card -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kmr26-aman&theme=default&background=0A101F&stroke=1C2740&ring=A78BFA&fire=10B981&currStreakLabel=A78BFA&sideLabels=C7D2E0&currStreakNum=C7D2E0&sideNums=C7D2E0&dates=5B6B85" />
@@ -56,6 +83,15 @@
 
 ---
 
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kmr26-aman&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true" width="100%"/>
+
+</div>
+
+---
 ### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/main/assets/snake-dark.svg" />
@@ -66,53 +102,49 @@
 <br/>
 
 ---
-
-<!-- ===================== SOCIAL BADGES ===================== -->
-<p align="left">
-<a href="https://linkedin.com/in/amankumar-dev26" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="https://instagram.com/_ak._.ydv_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>&nbsp;&nbsp;
-<a href="https://fb.com/amankumar" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>&nbsp;&nbsp;
-<a href="mailto:aman123333kumar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-</p>
----
-
-### 🧠 About Me
-
-```yaml
-role: "Final-Year B.Tech ECE Student → Software Engineer"
-focus: ["Full-Stack Development", "AI/ML Systems", "Product Engineering"]
-philosophy: "Engineering software that is scalable, secure, and shipped — not just prototyped."
-```
-
-I'm a final-year **Electronics & Communication Engineering** student with a product-engineering mindset and a full-stack execution track record. I build systems end-to-end — from resilient backend architecture and vector-search-driven AI pipelines to polished, animation-rich frontend experiences. My work spans **MERN/Next.js applications**, **FastAPI + PyTorch AI services**, and **embedded systems** (STM32, ARM Cortex), giving me a rare vertical slice of software engineering — from silicon to UI.
-
-I care about clean architecture, ATS-proof documentation of my own work, and shipping products that solve real logistical and safety problems — as reflected in my **Smart India Hackathon 2025** finalist project.
+### 💻 Coding Profiles
 
 <div align="center">
 
-```text
-Open To:  Software Development Engineer • Full-Stack Engineer • AI/ML Engineer Roles
-```
+[![LeetCode](https://img.shields.io/badge/LeetCode-262626?style=for-the-badge&logo=leetcode&logoColor=A78BFA)](https://leetcode.com/kmr_aman26)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-262626?style=for-the-badge&logo=geeksforgeeks&logoColor=8B5CF6)](https://geeksforgeeks.org/user/aman1233ohcz)
+[![HackerRank](https://img.shields.io/badge/HackerRank-262626?style=for-the-badge&logo=hackerrank&logoColor=C4B5FD)](https://hackerrank.com/kmr_aman26)
+[![CodeChef](https://img.shields.io/badge/CodeChef-262626?style=for-the-badge&logo=codechef&logoColor=A78BFA)](https://codechef.com/users/kmr_aman26)
 
 </div>
 
 ---
+### 💻 LeetCode Progress
+
+<div align="center">
+  <a href="https://leetcode.comkmr_aman26/">
+    <img src="https://leetcard.jacoblin.cool/kmr_aman26?theme=dark&font=Baloo%20Bhaina%202&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</div>
+
+---
+
+
+
 ### 🛠️ Tech Stack
 
+<p align="center">
 **Languages**
-![](https://skillicons.dev/icons?i=js,ts,python,cpp,c,java)
-
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,java" />
+<br/><br/>
 **Frontend**
-![](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css)
-
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" />
+<br/><br/>
 **Backend & Databases**
-![](https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis)
-
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis" />
+<br/><br/>
 **Cloud, DevOps & Tooling**
-![](https://skillicons.dev/icons?i=docker,git,github,vercel,railway,aws,linux,vscode)
-
-**Embedded & Hardware**
-![](https://skillicons.dev/icons?i=arduino,STM32,ARM Cortex-M4 , VHDL , ESP32)
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,aws,linux,vscode" />
+</p>
 
 ---
 
@@ -207,87 +239,54 @@ Contributed to retail marketing operations, gaining cross-functional exposure to
 <br/>
 
 ---
-
 ### 📜 Certifications
 
+<p align="center">
 **NPTEL**
-![](https://img.shields.io/badge/Database%20Management%20Systems-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-
+<br/>
+<img src="https://img.shields.io/badge/Database%20Management%20Systems-6D28D9?style=flat-square&logo=googlescholar&logoColor=white" />
+<br/><br/>
 **GeeksforGeeks**
-![](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4C1D95?style=flat-square&logo=geeksforgeeks&logoColor=white)
-
+<br/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4C1D95?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+<br/><br/>
 **Udemy**
-![](https://img.shields.io/badge/Full%20Stack%20Web%20Development%20(Angela%20Yu)-5B21B6?style=flat-square&logo=udemy&logoColor=white)
-
----
-
-### 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-262626?style=for-the-badge&logo=leetcode&logoColor=A78BFA)](https://leetcode.com/kmr_aman26)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-262626?style=for-the-badge&logo=geeksforgeeks&logoColor=8B5CF6)](https://geeksforgeeks.org/user/aman1233ohcz)
-[![HackerRank](https://img.shields.io/badge/HackerRank-262626?style=for-the-badge&logo=hackerrank&logoColor=C4B5FD)](https://hackerrank.com/kmr_aman26)
-[![CodeChef](https://img.shields.io/badge/CodeChef-262626?style=for-the-badge&logo=codechef&logoColor=A78BFA)](https://codechef.com/users/kmr_aman26)
-
-</div>
-
----
-### 💻 LeetCode Progress
-
-<div align="center">
-  <a href="https://leetcode.comkmr_aman26/">
-    <img src="https://leetcard.jacoblin.cool/kmr_aman26?theme=dark&font=Baloo%20Bhaina%202&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kmr26-aman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kmr26-aman&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmr26-aman&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="60%"/>
-
-</div>
+<br/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Web%20Development%20(Angela%20Yu)-5B21B6?style=flat-square&logo=udemy&logoColor=white" />
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kmr26-aman&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kmr26-aman&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true" width="100%"/>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=kmr26-aman&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8&title.color=A78BFA&text.color=C7D2E0&icon.color=10B981&background=0A101F" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=kmr26-aman&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8&title.color=7C3AED&text.color=1E293B&icon.color=059669&background=F7F8FC" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kmr26-aman&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8&title.color=A78BFA&text.color=C7D2E0&icon.color=10B981&background=0A101F" alt="GitHub Trophies" />
+</picture>
 
 ---
-
-
-
 
 ### 🎯 Current Focus
 
+- 🔭 Actively seeking **SDE / Full-Stack Engineer** roles
+- 🎓 Final-year B.Tech ECE student (2023–2027), CGPA 9.6/10
+- 🏗️ Building full-stack MERN projects — **EatUpp** (food delivery, real-time map tracking), **Socialiser** (social platform with Socket.IO + Redis), **Road SOS** (emergency response platform with FastAPI + Docker)
+- 🧠 Sharpening **Data Structures & Algorithms** (GeeksforGeeks offline course)
+- ☁️ Exploring cloud deployment across **Vercel, Railway, Netlify, GitHub Pages**
+- 📊 Applying **Power BI / Tableau** skills from NPTEL's Database Management Systems certification
 
 ---
+
 ### ✍️ Motivational Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ak._.ydv_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ydv_X_ak) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Learn_Lite) 
+ 
+---
 
 ### 🤝 Connect
 
@@ -300,7 +299,6 @@ Contributed to retail marketing operations, gaining cross-functional exposure to
 
 </div>
 
----
 <div align="center">
 
 *"Code is the bridge between an idea and its impact."*
@@ -309,3 +307,5 @@ Contributed to retail marketing operations, gaining cross-functional exposure to
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
+
+---
