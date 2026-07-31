@@ -31,6 +31,21 @@
 
 <br/><br/>
 
+---
+### 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🎓 9.6 CGPA | B.Tech Electronics & Communication Engineering |
+| 📜 Multi-Domain Certification | AI/ML, DSA, Full-Stack Development |
+| 🥇 SIH 2025 Participant | Railway Track Fitting Management System |
+
+</div>
+
+---
+
 <!-- ===================== STATS ===================== -->
 <!-- Streak card -->
 <picture>
@@ -39,14 +54,18 @@
   <img width="100%" src="https://streak-stats.demolab.com?user=kmr26-aman&theme=default&background=0A101F&stroke=1C2740&ring=A78BFA&fire=10B981" alt="GitHub Streak" />
 </picture>
 
+---
+
 ### 🐍 Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/output/snake-light.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/main/assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/main/assets/snake-light.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/main/assets/snake-dark.svg" />
 </picture>
 
 <br/>
+
+---
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 <p align="left">
@@ -55,6 +74,8 @@
 <a href="https://fb.com/amankumar" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>&nbsp;&nbsp;
 <a href="mailto:aman123333kumar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 </p>
+---
+
 ### 🧠 About Me
 
 ```yaml
@@ -184,20 +205,6 @@ Contributed to retail marketing operations, gaining cross-functional exposure to
 `Marketing` `Data Analysis` `Business Strategy`
 
 <br/>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🎓 9.6 CGPA | B.Tech Electronics & Communication Engineering |
-| 📜 Multi-Domain Certification | AI/ML, DSA, Full-Stack Development |
-| 🥇 SIH 2025 Participant | Railway Track Fitting Management System |
-
-</div>
 
 ---
 
