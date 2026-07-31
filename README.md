@@ -39,7 +39,15 @@
   <img width="100%" src="https://streak-stats.demolab.com?user=kmr26-aman&theme=default&background=0A101F&stroke=1C2740&ring=A78BFA&fire=10B981" alt="GitHub Streak" />
 </picture>
 
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/output/snake-light.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/output/snake-dark.svg" />
+</picture>
+
 <br/>
+
 <!-- ===================== SOCIAL BADGES ===================== -->
 <p align="left">
 <a href="https://linkedin.com/in/amankumar-dev26" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
@@ -84,22 +92,6 @@ Open To:  Software Development Engineer • Full-Stack Engineer • AI/ML Engine
 
 **Embedded & Hardware**
 ![](https://skillicons.dev/icons?i=arduino,STM32,ARM Cortex-M4 , VHDL , ESP32)
-
----
-
-### 🤖 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **LLM Orchestration** | ⭐⭐⭐⭐☆ | LangChain, LlamaIndex, RAG pipelines |
-| **Vector Search** | ⭐⭐⭐⭐☆ | PostgreSQL + pgvector, embeddings |
-| **Deep Learning** | ⭐⭐⭐⭐☆ | PyTorch, model fine-tuning |
-| **AI Product Integration** | ⭐⭐⭐⭐⭐ | End-to-end SaaS + AI feature shipping |
-| **Applied NLP** | ⭐⭐⭐☆☆ | Document intelligence, classification |
-
-</div>
 
 ---
 
@@ -277,39 +269,18 @@ Contributed to retail marketing operations, gaining cross-functional exposure to
 
 ---
 
-### 🐍 Contribution Snake
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
 
 ### 🎯 Current Focus
 
-```yaml
-Learning:
-  - Advanced system design & distributed architectures
-  - LLM agent orchestration frameworks
-Building:
-  - AI-powered full-stack SaaS applications
-  - Portfolio-grade production systems
-Exploring:
-  - Vector databases & retrieval-augmented generation
-  - Embedded-to-cloud IoT pipelines
-Open To:
-  - SDE / Full-Stack Engineer roles
-  - AI/ML Engineering opportunities
-```
 
 ---
 ### ✍️ Motivational Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ak._.ydv_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar-5a5763292) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ydv_X_ak) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Learn_Lite) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aman123333kumar@gmail.com) 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ak._.ydv_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ydv_X_ak) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Learn_Lite) 
 
 ### 🤝 Connect
 
