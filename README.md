@@ -1,56 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:1a1a1a&height=220&section=header&text=Aman%20Kumar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=Full-Stack+%7C+MERN+%2F+Next.js+%2F+FastAPI;AI%2FML+Engineer+%7C+PyTorch+%2B+LangChain;Embedded+Systems+%7C+STM32+%2F+ARM;SIH+2025+Finalist" alt="Typing SVG" />
@@ -93,30 +40,6 @@
 </picture>
 
 <br/>
-
-<!-- Stats + Top Languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kmr26-aman&show_icons=true&hide_rank=true&count_private=true&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&icon_color=10B981&border_color=1C2740" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kmr26-aman&show_icons=true&hide_rank=true&count_private=true&bg_color=F7F8FC&title_color=7C3AED&text_color=1E293B&icon_color=059669&border_color=D8DEEA" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kmr26-aman&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&icon_color=10B981&border_color=1C2740" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kmr26-aman&layout=compact&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&border_color=1C2740" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kmr26-aman&layout=compact&bg_color=F7F8FC&title_color=7C3AED&text_color=1E293B&border_color=D8DEEA" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmr26-aman&layout=compact&bg_color=0A101F&title_color=A78BFA&text_color=C7D2E0&border_color=1C2740" alt="Top Languages" />
-</picture>
-
-<br/>
-
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/output/snake-light.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/kmr26-aman/kmr26-aman/output/snake-dark.svg" />
-</picture>
-
-<br/>
-
 <!-- ===================== SOCIAL BADGES ===================== -->
 <p align="left">
 <a href="https://linkedin.com/in/amankumar-dev26" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
@@ -145,11 +68,6 @@ Open To:  Software Development Engineer • Full-Stack Engineer • AI/ML Engine
 </div>
 
 ---
-### ✍️ Motivational Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ak._.ydv_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar-5a5763292) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ydv_X_ak) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Learn_Lite) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aman123333kumar@gmail.com) 
-
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -387,6 +305,11 @@ Open To:
 ```
 
 ---
+### ✍️ Motivational Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🌐 Socials:
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ak._.ydv_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar-5a5763292) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ydv_X_ak) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Learn_Lite) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aman123333kumar@gmail.com) 
 
 ### 🤝 Connect
 
